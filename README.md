@@ -5,10 +5,10 @@
 **Blogging Platform**: A web application where users can create, edit, and publish blog posts.
 
 ## Team members
-1.Fawar Rahman [profile](https://github.com/FAWARRAHMAN) 
-2.Hunaif. p [profile](https://github.com/Hunaiiiff)
-3.Musfira.ch [profile](https://github.com/musfirra)
-4.Fathima Nasrin.c [profile](https://github.com/Fathimanasrinc)
+1.Fawar Rahman [profile](https://github.com/FAWARRAHMAN).
+2.Hunaif. p [profile](https://github.com/Hunaiiiff).
+3.Musfira.ch [profile](https://github.com/musfirra).
+4.Fathima Nasrin.c [profile](https://github.com/Fathimanasrinc).
 
 ## Team Id
 #include
