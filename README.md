@@ -1,11 +1,13 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Blogging Platform
+Blog Platform: A web application where users can create, edit, and publish blog posts.
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1.Fawar Rahman(https://github.com/FAWARRAHMAN) 
+2.Hunaif.p(https://github.com/Hunaiiiff)
+3.Musfira.ch(https://github.com/musfirra)
+4.Fathima Nasrin.c(https://github.com/Fathimanasrinc)
 ## Team Id
-Team id here
+#include
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
