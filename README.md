@@ -1,6 +1,6 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 # Blogging Platform
-Blog Platform: A web application where users can create, edit, and publish blog posts.
+Blogging Platform: A web application where users can create, edit, and publish blog posts.
 ## Team members
 1.Fawar Rahman(https://github.com/FAWARRAHMAN) 
 2.Hunaif.p(https://github.com/Hunaiiiff)
